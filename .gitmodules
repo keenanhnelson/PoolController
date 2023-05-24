@@ -1,0 +1,9 @@
+[submodule "AndroidCode/PoolController"]
+	path = AndroidCode/PoolController
+	url = https://github.com/keenanhnelson/PoolController_AndroidApp.git
+[submodule "KiCad/RaspberryPiHatBoard"]
+	path = KiCad/RaspberryPiHatBoard
+	url = https://github.com/keenanhnelson/PoolController_RaspberryPiHatBoard.git
+[submodule "RaspberryPiCode"]
+	path = RaspberryPiCode
+	url = https://github.com/keenanhnelson/PoolController_RaspberryPiCode.git
